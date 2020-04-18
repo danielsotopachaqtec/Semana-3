@@ -1,3 +1,7 @@
+// 1) Añadir nuevos callback que reste, divida
+// 2) refactorizar o re-escribir la funcion doMath
+// 3) Añadir validaciones a nuestras callback if typeof ...
+
 function addOne(number) {
 	console.log(number + 1);
 }
